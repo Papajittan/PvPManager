@@ -1,0 +1,9 @@
+name: PvPManager
+main: com.august.pvpmanager.Main
+version: 1.0.0
+description: Allow you to manage pvp!
+author: August
+commands:
+  pvp:
+    description: Let you to turn on or off pvp!
+    usage: /
